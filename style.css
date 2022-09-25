@@ -19,7 +19,7 @@ body{
     
 }
 .banner{
-    background-image: url(bcmm.jpg);
+    background-image: url(images/bcmm.jpg);
     
     
 }
@@ -45,7 +45,7 @@ p{
 }
 
 .dream-area{
-    background-image: url(whitee.jpg);
+    background-image: url(images/whitee.jpg);
     
 }
 
@@ -59,7 +59,7 @@ h2{
     
 }
 .experiance{
-    background-image: url(pattern.jpg);
+    background-image: url(images/pattern.jpg);
     
 }
 #stack{
